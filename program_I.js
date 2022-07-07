@@ -1,3 +1,5 @@
 function main(){
-  console.log("\nHello World!")
+  console.log("\nHello World!");
 }
+
+main();
